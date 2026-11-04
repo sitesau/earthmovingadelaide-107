@@ -1,0 +1,22 @@
+{
+  "wheel_id": 732,
+  "structure": "umbrella",
+  "slug": "earthmovingadelaide-107",
+  "project": "earthmoving-contractors-adelaide-common-mistakes-cdf4c6b10460db",
+  "parent_t1_ref": "earthmovingadelaide-153",
+  "node_role": "feeder",
+  "money_target": "earthmovingadelaide.com.au",
+  "primary_kw": "earthmoving contractors adelaide common mistakes",
+  "intended_url": "https://aumedia.neocities.org/earthmoving-contractors-adelaide-common-mistakes-cdf4c6b10460db/",
+  "tier": "T2",
+  "writeback_nonce": "cf313a15c381db2d",
+  "links": [
+    {
+      "target_url": "http://earthmoving-contractors-adelaide-suburb-guide-802951ddec94a4294.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "more on earthmoving contractors adelaide suburb guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
